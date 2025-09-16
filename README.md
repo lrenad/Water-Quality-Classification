@@ -2,7 +2,7 @@
 
 This project applies supervised machine learning techniques to classify water potability (drinkable or not) based on various chemical attributes such as pH, hardness, solids, and chloramines.
 
-## 📂 Project Description
+## Project Description
 
 Access to safe drinking water is essential for public health. This project investigates the use of different machine learning classifiers to predict whether a water sample is potable, using a dataset of chemical properties. The work was completed as part of the CS522 course project.
 
